@@ -1,0 +1,7 @@
+# How Can Tesla Regain Market Share in the State of Washington?
+
+This repository contains a Jupyter Notebook for data analysis of electric vehicles using Python.
+
+The electric vehicle (EV) market is seeing an influx of new models, many of which boast improved battery technology, greater access to charging stations, and luxurious, customizable interiors. However, according to the EY Mobility Consumer Index (EY MCI), consumer interest in purchasing EVs has declined in 2024. These trends have contributed to a decrease in market share for the leading EV brand, Tesla. 
+
+Considering these trends, this project aims to identify the barriers to EV adoption, focusing on Tesla, and propose strategies to enhance Tesla's sales performance. In the beginning, we will examine the key factors influencing EV purchases, such as price, availability of charging infrastructure, and the impact of government policy. Next, we will explore the challenges leading to Tesla’s declining market share, such as increased competition, consumer preferences, and political issues. Finally, we will focus on the state of Washington, which has the fourth-highest number of EVs in the United States, to identify potential Tesla customer segments based on factors such as age, income levels, and education. Based on these analyses and their findings, we will provide recommendations for Tesla’s marketing strategy as well as models that best align with market demands and boost sales performance.
